@@ -22,7 +22,7 @@
 
 ### Contact: 
 
-Phone: +55 47 9 9156-2487 | E-mail: lukascerqueira@live.com
+Phone: +55 17 9 9768-5182 | E-mail: lukascerqueira@live.com
 
 ### Social Media:
 
