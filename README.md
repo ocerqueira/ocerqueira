@@ -4,7 +4,7 @@
 
 ### GitHub Stats:
 
-![Luke's GitHub stats](https://github-readme-stats.vercel.app/api?username=ocerqueira&show_icons=true&theme=dracula)
+ <!-- ![Luke's GitHub stats](https://github-readme-stats.vercel.app/api?username=ocerqueira&show_icons=true&theme=dracula) -->
 
 
 ### Technologies:
